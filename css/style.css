@@ -167,6 +167,12 @@ footer section {
 }
 
 /* botao */
+
+button a {
+  color: white;
+  text-decoration: none;
+}
+
 button {
   outline: none;
   cursor: pointer;
@@ -237,8 +243,8 @@ button:hover::before {
   }
 
   header img {
-    position: relative;
-    left: 45%;
+    margin: auto;
+    display: block;
     width: 50px;
     height: 50px;
   }
