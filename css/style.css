@@ -152,7 +152,7 @@ footer a {
 }
 
 footer a:hover {
-  color: var(--cor6);
+  color: white;
   font-size: 19px;
   transform: scale(1);
 }
