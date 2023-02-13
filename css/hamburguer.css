@@ -91,3 +91,10 @@
   h3 {
     font-size: 20px;
   }
+
+  footer img {
+    margin: auto;
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
