@@ -14,7 +14,7 @@
 }
 
 body {
-  background-color: var(--cor0);
+  background-image: linear-gradient(to right, blue, white,red);
 }
 
 header {
@@ -229,6 +229,10 @@ button:hover::before {
 /* botao */
 
 @media (max-width: 900px) {
+
+  body {
+    background-image: linear-gradient(to right, blue,red);
+  }
 
   header {
     font-family: var(--font-padrao);
