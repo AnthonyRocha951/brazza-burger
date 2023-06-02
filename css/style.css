@@ -231,7 +231,7 @@ button:hover::before {
 @media (max-width: 900px) {
 
   body {
-    background-image: linear-gradient(to right, blue,red);
+    background-color: #FEAD2B;
   }
 
   header {
